@@ -1,18 +1,18 @@
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
-        int myInt = 121;
-        System.out.println("Значение переменной myInt с типом Int = 121");
-        byte myByte = 20;
-        System.out.println("Значение переменной myByte с типом Byte = 20");
-        short myShort = 40;
-        System.out.println("Значение переменной myShort с типом Byte = 40");
-        long myLong = 2342340000L;
-        System.out.println("Значение переменной myLong с типом Long = 2342340000L");
-        float myfloat = 23.0325F;
-        System.out.println("Значение переменной myfloat с типом Float = 23.0325f");
-        double myDouble = 35.2;
-        System.out.println("Значение переменной myDouble с типом Double = 35.2");
+        int appel = 121;
+        System.out.println("Значение переменной appel с типом int = 121");
+        byte box = 20;
+        System.out.println("Значение переменной box с типом byte = 20");
+        short banana = 40;
+        System.out.println("Значение переменной Short с типом short = 40");
+        long stick = 2342340000L;
+        System.out.println("Значение переменной stick с типом Long = 2342340000L");
+        float degree = 23.0325F;
+        System.out.println("Значение переменной degree с типом Float = 23.0325f");
+        double pen = 35.2;
+        System.out.println("Значение переменной pen с типом Double = 35.2");
 
 
         double a = 27.12;
@@ -150,5 +150,6 @@ public class Main {
         System.out.println(" Маша теперь получает " + mashaNewSalary + " рублей. Годовой доход вырос " + mashaDifferenceBetweenAnnualIncome + " рублей ");
         System.out.println(" Денис теперь получает " + denisNewSalary + " рублей. Годовой доход вырос " + denisDifferenceBetweenAnnualIncome + " рублей ");
         System.out.println(" Кристина теперь получает " + kristinaNewSalary + " рублей. Годовой доход вырос " + kristinaDifferenceBetweenAnnualIncome + " рублей ");
+
     }
     }
